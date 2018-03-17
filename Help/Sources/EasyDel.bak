@@ -1,0 +1,66 @@
+JBHFILEVERSION
+3
+EasyDel
+8454143
+8454016
+0
+0
+200
+200
+4
+Algorithmen
+Algorithmen
+
+TRUE
+	BSI - Algorithmus (niedrige Sicherheit)
+BSI - Algorithmus (niedrige Sicherheit)
+
+FALSE
+	DoD - Algorithmus (mittlere Sicherheit)
+DoD - Algorithmus (mittlere Sicherheit)
+
+FALSE
+	Peter Gutmann - Algorithmus (hohe Sicherheit)
+Peter Gutmann - Algorithmus (hohe Sicherheit)
+
+FALSE
+3
+algoBSI
+
+
+
+
+4
+{\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+algoDoD
+
+
+
+
+4
+{\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+algoPeterGutmann
+
+
+
+
+4
+{\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0

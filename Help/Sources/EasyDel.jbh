@@ -1,0 +1,70 @@
+JBHFILEVERSION
+3
+EasyDel
+8454143
+8454016
+0
+0
+200
+200
+4
+Algorithmen
+Algorithmen
+
+TRUE
+	BSI - Algorithmus (niedrige Sicherheit)
+BSI - Algorithmus (niedrige Sicherheit)
+algoBSI
+FALSE
+	DoD - Algorithmus (mittlere Sicherheit)
+DoD - Algorithmus (mittlere Sicherheit)
+algoDoD
+FALSE
+	Peter Gutmann - Algorithmus (hohe Sicherheit)
+Peter Gutmann - Algorithmus (hohe Sicherheit)
+algoPeterGutmann
+FALSE
+3
+algoBSI
+
+
+
+
+8
+{\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\b\fs28 Der Algorithmus des BSI \b0\fs20 (B\f1 undesamt f\f0\'fcr Sicherheit in der Informationstechnik)
+\par 
+\par 
+\par Dieser Algorithmus stammt aus dem Kapitel "Secure deletion of data media" des "IT Baseline Protection Manual".
+\par 
+\par }
+0
+0
+0
+algoDoD
+
+
+
+
+4
+{\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0
+algoPeterGutmann
+
+
+
+
+4
+{\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fnil Arial;}}
+{\colortbl ;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\f0\fs20 
+\par }
+0
+0
+0

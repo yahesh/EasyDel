@@ -1,0 +1,13 @@
+Overwriting:
+  Physical erasure sufficient for medium-level protection can be achieved
+by overwriting the entire data medium or at least the used sectors with a
+certain pattern. Certain commercially available products even allow the
+physical erasure of individual files.
+  Uniform patterns such as "0000" should not be used for overwriting, but
+rather patterns such as "C1" (hexadecimal, corresponds to the bit sequence
+11000001).
+  Following on from that, in a second pass a complementary pattern (for
+example 3E, corresponding to the bit sequence 00111110) should be used so
+that if at all possible each bit has been changed once.
+The overwrite procedure should therefore be repeated at least twice, or
+preferably three times, as this provides a better protective effect.
